@@ -1,0 +1,26 @@
+# IDE files
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Large ML models
+*.pt
+*.pth
+*.bin
+*.ckpt
+models/
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+
+# OS
+.DS_Store
+Thumbs.db
